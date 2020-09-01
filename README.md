@@ -1,2 +1,2 @@
-# DeliveryApp
-A symfony/ReactJs delivery App
+# FoodDeliveryApp
+A symfony/ReactJs food delivery App
